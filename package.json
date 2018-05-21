@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "Command line tool to get current weather for any city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham8garg/Nodejs-weather-app.git"
+  },
+  "author": "Shubham Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham8garg/Nodejs-weather-app/issues"
+  },
+  "homepage": "https://github.com/shubham8garg/Nodejs-weather-app#readme",
+  "dependencies": {
+    "request": "^2.86.0",
+    "yargs": "^11.0.0"
+  }
+}
