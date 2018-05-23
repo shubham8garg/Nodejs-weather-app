@@ -1,5 +1,10 @@
 # Nodejs-weather-app
 
-First we installed request -
-- npm install request --save
+## Pre-requisites
+1. node.js should be installed (npm is installed)
 
+## Getting the API Key
+
+1. created an account on - https://openweathermap.org/apiid
+2. then created an API,
+copied the API key
